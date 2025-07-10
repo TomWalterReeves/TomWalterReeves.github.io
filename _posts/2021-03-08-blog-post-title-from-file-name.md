@@ -30,3 +30,6 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+### Interactive Chart
+
+<iframe src="/assets/chart.html" width="100%" height="620" frameborder="0"></iframe>
