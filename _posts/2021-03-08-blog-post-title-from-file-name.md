@@ -10,6 +10,7 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ### This is a header
 
+
 #### Some T-SQL Code
 
 ```tsql
@@ -30,6 +31,11 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+### Test Interactive Chart
+
+<iframe src="/charts/capacity_chart.html" width="100%" height="600" style="border:none;"></iframe>
+
 ### Interactive Chart
 
 <iframe src="/assets/chart.html" width="100%" height="620" frameborder="0"></iframe>
