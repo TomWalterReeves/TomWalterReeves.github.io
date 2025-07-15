@@ -34,7 +34,9 @@ ForEach ($thing in $things) {
 
 ### Test Energy Chart
 
+<div class="full-width-embed">
 <iframe src="/assets/capacity_chart.html" width="100%" height="620" frameborder="0"></iframe>
+</div>
 
 ### Interactive Chart
 
