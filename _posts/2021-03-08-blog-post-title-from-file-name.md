@@ -32,9 +32,9 @@ ForEach ($thing in $things) {
 }
 ```
 
-### Test Interactive Chart
+### Test Energy Chart
 
-<iframe src="/_charts/capacity_chart.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="/assets/capacity_chart.html" width="100%" height="620" frameborder="0"></iframe>
 
 ### Interactive Chart
 
