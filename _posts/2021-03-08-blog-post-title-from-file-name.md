@@ -32,7 +32,7 @@ ForEach ($thing in $things) {
 }
 ```
 
-### Test Interactive Chart
+### Test Interactive Chart 2
 
 <iframe src="/_charts/capacity_chart.html" width="100%" height="600" style="border:none;"></iframe>
 
