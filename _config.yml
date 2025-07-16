@@ -22,7 +22,7 @@ linkedin_username: "thomas-reeves"
 #########################################################################################
 theme: "minima"
 
-# rss: rss
+rss: rss
 
 kramdown:
   syntax_highlighter_opts:
