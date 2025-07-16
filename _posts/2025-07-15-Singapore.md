@@ -10,7 +10,7 @@ This decision to generate it's own power has come from deliberate policy to main
 
 ***Growing from a few dozen MW of generation capacity to reliable supply***
 
-<iframe src="/assets/Sinapore/singapore_energy_cap_1953_1975.html" width="100%" height="620" frameborder="0"></iframe>
+<iframe src="/assets/Singapore/singapore_energy_cap_1953_1975.html" width="100%" height="620" frameborder="0"></iframe>
 
 Following the second world war Singapore went through a tumultuous period to reach independence in 1965. This included transitioning from an unreliable colonial era energy supply where demand rapidly outstripped supply and load shedding was frequent. Pasir Panjang A Power Station, an oil burning steam turbine power station, was commissioned in stages from the 1950s to 1965 to bring on a more reliable load and to supplement  the war-damaged St James Power Station. 
 
