@@ -2,9 +2,3 @@ I’m Tom Reeves, an engineer working in energy and currently taking some time o
 
 I’m using it to learn new coding and data skills, explore how the energy world fits together, and share whatever interesting things I find along the way." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
-## The journey so far
-
-<div class="full-width-embed">
-<iframe src="/assets/journey_map_2025_07.html" width="100%" height="620" frameborder="0"></iframe>
-</div>
-
