@@ -1,22 +1,28 @@
-# 🇸🇬 Singapore
+# 🇸🇬 Singapore 
 
-Moving energy around can be categorised in a variety of ways. One way that helps me to understand the challenges we're facing in the energy transition to think of moving energy as electrons through wires or batteries or as a molecules such as oil, natural gas or, if you're an optimistic thinker, hydrogen. If you need to move energy the same, predictable way across land that you control wire and incredibility efficient. But if you are a small island with energy needs that vastly outsize your own generation capacity molecular energy such as coal, oil and gas are the way to go. 
+Electricity generation in Singapore just over 60 year history as an independent country has consisted almost entirety self generated power from imported oil and gas. It has already once shifted it's electricity generation sector from being almost completely oil based to liquid natural gas based and now faces a new challenge of transitioning to green energy supply.
 
-Energy in Singapore just over 60 year history as an independent country has consisted almost entirety of molecule import. It has already once shifted it's electricity generation sector from being almost completely oil based to liquid natural gas based and in doing so create one of the largest LNG trading hubs in the world. But now climate change may force Singapore to strike a balance between  green energy supply and remaining non-reliant on its neighbours. 
+This decision to generate it's own power has come from deliberate policy to maintain control and resilient power to support it’s growth desires. Looking back at how the generation capacity has grown since early independence can help understand how Singapore as a whole has grown. 
 
 ---
 
-### Early independence and oil 
+## Early days of oil 
 
-Following the second world war through a tumultuous period to reach independence in 1965 Singapore transitioned from an unreliable colonial era energy supply to a more stable, oil-based system. The first project enabling this was the Pasir Panjang A Power Station commissioned in stages from the 1950s to 1965. Pasir Panjang A replaced the war-damaged St James Power Station and rapidly expanded to meet soaring industrial demand. Initially opened in 1953 with 50MW capacity it, along with the adjacent Pasir Panjang B power, station reached a total combined capacity of ~300MW. 
+***Growing from a few dozen MW of generation capacity to reliable supply***
+
+<iframe src="assets/singapore_energy_cap_1953_1975.html" width="100%" height="620" frameborder="0"></iframe>
+
+Following the second world war Singapore went through a tumultuous period to reach independence in 1965. This included transitioning from an unreliable colonial era energy supply where demand rapidly outstripped supply and load shedding was frequent. Pasir Panjang A Power Station, an oil burning steam turbine power station, was commissioned in stages from the 1950s to 1965 to bring on a more reliable load and to supplement  the war-damaged St James Power Station. 
+
+<img src="assets/Images/Pasir Panjang A Power Station.png" style="display: block; margin: auto;" />
+*[Pasir Panjang A Power Station](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19651015-1.2.179)*
+
+Singapore new government identified that continuing to develop generation capacity would be critical to achieving it's industrialisation policies and an additional power station, Pasir Panjang B, was constructed and commissioned in 1965. This nearly doubled the generation capacity of the island and would prove sufficient until the mid 70s. 
+
+## Expansion and growth
 
 
 
-### Energy Chart
-
-<div class="full-width-embed">
-<iframe src="/assets/capacity_chart.html" width="100%" height="620" frameborder="0"></iframe>
-</div>
 
 
 
