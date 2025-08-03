@@ -12,7 +12,7 @@ This decision to generate its own power has come from a deliberate policy to mai
 <iframe 
   src="/assets/Singapore/singapore_energy_cap_1953_1975.html" 
   width="100%" 
-  height="600px" 
+  height="650px" 
   style="border: 1px solid #ddd;" 
   frameborder="0">
 </iframe>
@@ -30,12 +30,12 @@ additional power station, Pasir Panjang B, was constructed and commissioned in 1
 
 ## Expansion and growth
 
-***mid 1970s to 1991***
+***Mid 1970s to 1991***
 
 <iframe 
   src="/assets/Singapore/singapore_energy_cap_1953_1991.html" 
   width="100%" 
-  height="600px" 
+  height="650px" 
   style="border: 1px solid #ddd;" 
   frameborder="0">
 </iframe>
@@ -53,7 +53,7 @@ At this point the whole electricity generation supply ran on oil and, as such, w
 <iframe 
   src="/assets/Singapore/singapore_energy_cap_1953_2013.html" 
   width="100%" 
-  height="600px" 
+  height="650px" 
   style="border: 1px solid #ddd;" 
   frameborder="0">
 </iframe>
@@ -64,15 +64,15 @@ While Singapore had been producing town gas, the development of natural gas pipe
 
 ***2013 to today***
 
+By now Singapore's generation capacity, even accounting for decommissioning at the end of life of several of its earlier power plants, massively outstripped its peak load requirements.
+
 <iframe 
   src="/assets/Singapore/singapore_energy_cap_1953_2024.html" 
   width="100%" 
-  height="600px" 
+  height="650px" 
   style="border: 1px solid #ddd;" 
   frameborder="0">
 </iframe>
-
-By now Singapore's generation capacity, even accounting for decommissioning at the end of life of several of its earlier power plants, massively outstripped its peak load requirements. 
 
 Singapore's measured, deliberate approach to power generation has been marked by cautious diversification and a preference for reliability over risk. Even as global calls for decarbonisation have grown louder, Singapore has continued to tread carefully, gradually increasing its solar generation capacity in a country with limited land and high urban density. Rooftop solar and floating PV systems now dot the island, contributing a small but growing share of supply. Looking forward, Singapore is aiming beyond its immediate neighbours to large-scale solar imports through regional ASEAN power grids and ambitious (if not unlikely) projects like SunCable in Australia. These point to a future where the island could tap into vast renewable energy resources from its neighbours while maintaining the resilience and control it has always looked to maintain.
 
