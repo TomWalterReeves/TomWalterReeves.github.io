@@ -9,7 +9,13 @@ This decision to generate its own power has come from a deliberate policy to mai
 
 ***1950s to the mid 1970s***
 
-<iframe src="/assets/Singapore/singapore_energy_cap_1953_1975.html" width="100%" height="auto" frameborder="0"></iframe>
+<iframe 
+  src="/assets/Singapore/singapore_energy_cap_1953_1975.html" 
+  width="100%" 
+  height="600px" 
+  style="border: 1px solid #ddd;" 
+  frameborder="0">
+</iframe>
 
 
 Following the second world war Singapore found itself as a colony in the collapsing British Empire, dealing with dated, war damaged infrastructure. The limited electricity supply came from St James Power Station built in 1926 in Singapore's HarbourFront  district.  This proved increasingly unreliable as demand from the colonial era energy supply increasingly outstripped supply, requiring frequent load shedding was frequent.  
@@ -26,7 +32,13 @@ additional power station, Pasir Panjang B, was constructed and commissioned in 1
 
 ***mid 1970s to 1991***
 
-<iframe src="/assets/Singapore/singapore_energy_cap_1953_1991.html" width="100%" height="auto" frameborder="0"></iframe>
+<iframe 
+  src="/assets/Singapore/singapore_energy_cap_1953_1991.html" 
+  width="100%" 
+  height="600px" 
+  style="border: 1px solid #ddd;" 
+  frameborder="0">
+</iframe>
 
 Singapore now had a modern electricity supply solidly built on oil generation. Through the next decades Singapore's population grew and this along with a growing and energy hungry industrial sector meant that by the mid seventies additional generation capacity was under development. In 1976 Senoko Power Station opened in the north of the island with a capacity of 360MW which would eventually grow to over 2,300MW and remains the country's largest power station. Pulau Seraya Power Station also opened on Jurong Island as part of a larger industrial development in the Southwest. 
 
@@ -38,7 +50,13 @@ At this point the whole electricity generation supply ran on oil and, as such, w
 
 ***1991 to 2013***
 
-<iframe src="/assets/Singapore/singapore_energy_cap_1953_2013.html" width="100%" height="auto" frameborder="0"></iframe>
+<iframe 
+  src="/assets/Singapore/singapore_energy_cap_1953_2013.html" 
+  width="100%" 
+  height="600px" 
+  style="border: 1px solid #ddd;" 
+  frameborder="0">
+</iframe>
 
 While Singapore had been producing town gas, the development of natural gas pipelines from its neighbours enabled an immense increase in capacity in new natural gas fired electricity generation facilities. 1992 saw the first supply of natural gas by pipeline from Johor in Malaysia followed in 2001 and 2003 by supply from West Natuna and South Sumatra in Indonesia respectively. This marked a change in Singapore's energy supply that now relied more heavily on its direct neighbours with 90% of natural gas supply coming through pipeline by 2013. Again diversification was in order. 
 
@@ -46,7 +64,13 @@ While Singapore had been producing town gas, the development of natural gas pipe
 
 ***2013 to today***
 
-<iframe src="/assets/Singapore/singapore_energy_cap_1953_2024.html" width="100%" height="auto" frameborder="0"></iframe>
+<iframe 
+  src="/assets/Singapore/singapore_energy_cap_1953_2024.html" 
+  width="100%" 
+  height="600px" 
+  style="border: 1px solid #ddd;" 
+  frameborder="0">
+</iframe>
 
 By now Singapore's generation capacity, even accounting for decommissioning at the end of life of several of its earlier power plants, massively outstripped its peak load requirements. 
 
