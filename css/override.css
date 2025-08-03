@@ -1,3 +1,24 @@
+/* === Blog Text Styling === */
+body {
+  color: #222222;  /* off-black for readable body text */
+  font-family: system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #4A5F41;  /* moss green for headings */
+  font-weight: bold;
+}
+
+a {
+  color: #3B3B98;  /* indigo for links */
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #B33939;  /* crimson red on hover for visibility */
+}
+
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
