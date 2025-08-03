@@ -42,7 +42,8 @@ additional power station, Pasir Panjang B, was constructed and commissioned in 1
 
 Singapore now had a modern electricity supply solidly built on oil generation. Through the next decades Singapore's population grew and this along with a growing and energy hungry industrial sector meant that by the mid seventies additional generation capacity was under development. In 1976 Senoko Power Station opened in the north of the island with a capacity of 360MW which would eventually grow to over 2,300MW and remains the country's largest power station. Pulau Seraya Power Station also opened on Jurong Island as part of a larger industrial development in the Southwest. 
 
-
+![SIN Senoko about-us-heritage-teaser](https://github.com/user-attachments/assets/294a6dff-b869-40e5-8658-dac1db88bf6a)
+*[Senoko Power Station](https://www.nlb.gov.sg/main/image-detail?cmsuuid=a17ec1ff-fdd8-41d3-a599-ff9c0f157650)*
 
 At this point the whole electricity generation supply ran on oil and, as such, was completely exposed to global oil price fluctuations. The 1973 Oil Crisis saw the price of crude oil quadruple and the 1979 Iranian Revolution saw prices double again. This led Singapore to seek a more diversified energy supply and to develop dual-fuel electricity generation capacity. 
 
@@ -63,6 +64,9 @@ While Singapore had been producing town gas, the development of natural gas pipe
 ## LNG and the beginnings of renewable generation
 
 ***2013 to today***
+![deccanherald-import-sites-dh-files-articleimages-2021-07-14-607467-01-02-1-1008481-1626254171](https://github.com/user-attachments/assets/40d42ba3-6b3b-4c11-9b40-2b8b8cf103d4)
+*[One of Singapore's Floating Solar Farms]([https://www.siww.com.sg/spotlight-2023/programme/technical-site-visits/sembcorp-tengeh-floating-solar-farm)*
+
 
 <iframe 
   src="/assets/Singapore/singapore_energy_cap_1953_2024.html" 
