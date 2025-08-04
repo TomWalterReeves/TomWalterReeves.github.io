@@ -4,6 +4,7 @@ Electricity generation in Singapore's just over 60 year history as an independen
 
 This decision to generate its own power has come from a deliberate policy to maintain control over a resilient power system that enabled industrialisation and economic development. Looking back at how the generation capacity has grown since early independence can help us understand how Singapore as a whole has grown. 
 
+---
 
 ## Early days of oil 
 
@@ -28,6 +29,8 @@ To combat this the Pasir Panjang A Power Station was built west of the existing 
 Following a brief stint within the Federation of Malay before being ejected for 'political and ethnic tensions' Singapore's new government identified that continuing to develop generation capacity would be critical to achieving its industrialisation policies. An 
 additional power station, Pasir Panjang B, was constructed and commissioned in 1965. This nearly doubled the generation capacity of the island and would prove sufficient until the mid 70s. 
 
+---
+
 ## Expansion and growth
 
 ***Mid 1970s to 1991***
@@ -47,6 +50,8 @@ Singapore now had a modern electricity supply solidly built on oil generation. T
 
 At this point the whole electricity generation supply ran on oil and, as such, was completely exposed to global oil price fluctuations. The 1973 Oil Crisis saw the price of crude oil quadruple and the 1979 Iranian Revolution saw prices double again. This led Singapore to seek a more diversified energy supply and to develop dual-fuel electricity generation capacity. 
 
+---
+
 ## Gas and regional reliance
 
 ***1991 to 2013***
@@ -60,6 +65,8 @@ At this point the whole electricity generation supply ran on oil and, as such, w
 </iframe>
 
 While Singapore had been producing town gas, the development of natural gas pipelines from its neighbours enabled an immense increase in capacity in new natural gas fired electricity generation facilities. 1992 saw the first supply of natural gas by pipeline from Johor in Malaysia followed in 2001 and 2003 by supply from West Natuna and South Sumatra in Indonesia respectively. This marked a change in Singapore's energy supply that now relied more heavily on its direct neighbours with 90% of natural gas supply coming through pipeline by 2013. Again diversification was in order. 
+
+---
 
 ## LNG and the beginnings of renewable generation
 
