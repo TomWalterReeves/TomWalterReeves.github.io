@@ -64,3 +64,19 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+/* === Header Bar Styling === */
+.site-header {
+  background-color: #4A5F41; /* change this to your preferred colour */
+}
+
+.site-header a,
+.site-title,
+.site-title a,
+.site-nav a {
+  color: #ffffff !important; /* force text/links in the header to be white */
+}
+
+.site-header a:hover {
+  color: #f0f0f0 !important; /* slightly lighter white/grey on hover */
+}
