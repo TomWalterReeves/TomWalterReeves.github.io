@@ -10,12 +10,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #3B3B98;  /* indigo for links */
-  text-decoration: underline;
+  color: #6b8e23; /* modern medium blue */
+  text-decoration: none; /* remove underline for a cleaner look */
+  border-bottom: 1px solid currentColor; /* subtle underline effect */
 }
 
 a:hover {
-  color: #B33939;  /* crimson red on hover for visibility */
+  color: #556b2f; /* deeper blue on hover */
+  border-bottom-color: transparent; /* underline disappears smoothly */
 }
 
 
