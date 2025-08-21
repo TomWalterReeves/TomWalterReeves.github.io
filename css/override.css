@@ -20,6 +20,9 @@ a:hover {
   border-bottom-color: transparent; /* underline disappears smoothly */
 }
 
+a:visited {
+  color: #455824;  /* deep, muted green for visited links */
+}
 
 hr {
   margin-top: 30px;
