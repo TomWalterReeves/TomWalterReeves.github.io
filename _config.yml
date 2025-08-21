@@ -12,7 +12,7 @@ email: "mail@tom-reeves.com"
 linkedin_username: "thomas-reeves"
 #facebook_username: username
 #flickr_username: username
-#instagram_username: username
+instagram_username: "mr_tom_r"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
@@ -22,7 +22,7 @@ linkedin_username: "thomas-reeves"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
