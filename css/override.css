@@ -10,18 +10,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #465e16; /* modern medium blue */
+  color: #202811; /* modern medium blue */
   text-decoration: none; /* remove underline for a cleaner look */
   border-bottom: none; /* subtle underline effect */
 }
 
 a:hover {
-  color: #3a4920; /* deeper blue on hover */
+  color: #1a1b17; /* deeper blue on hover */
   border-bottom-color: transparent; /* underline disappears smoothly */
 }
 
 a:visited {
-  color: #455824;  /* deep, muted green for visited links */
+  color: #1a1b17;  /* deep, muted green for visited links */
   text-decoration: none; /* remove underline for a cleaner look */
   border-bottom: none; /* subtle underline effect */
 }
