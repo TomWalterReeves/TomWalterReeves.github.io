@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: #465e16; /* modern medium blue */
   text-decoration: none; /* remove underline for a cleaner look */
-  border-bottom: 1px solid currentColor; /* subtle underline effect */
+  border-bottom: none; /* subtle underline effect */
 }
 
 a:hover {
@@ -22,6 +22,8 @@ a:hover {
 
 a:visited {
   color: #455824;  /* deep, muted green for visited links */
+  text-decoration: none; /* remove underline for a cleaner look */
+  border-bottom: none; /* subtle underline effect */
 }
 
 hr {
